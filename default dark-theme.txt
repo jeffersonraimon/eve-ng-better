@@ -1,0 +1,15 @@
+/opt/unetlab/html/themes/default/css/unetlab.css
+
+#lab-viewport {
+    	background-image: url(/themes/adminLTE/unl_data/img/grid-dark.png);
+    	background-repeat:repeat;
+	bottom: 0px;
+	position: absolute;
+	left: 40px;
+	overflow: auto;
+	right: 0px;
+	top: 0px;
+	white-space: nowrap;
+	z-index:2;
+	height:100vh;
+}
